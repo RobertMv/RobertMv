@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Robert
 - 👀 I’m interested in programming backend applications in Go
-- 🌱 I’m currently learning gRPC, Kafka and Docker Compose
+- 🌱 I’m currently learning gRPC, Kafka and Kubernetes
 - 📫 You can reach me on Telegram @avorobert
 
 P.S. I'm fond of sports: road cycling, swimming and some calisthenics
